@@ -1,7 +1,7 @@
 package javaPackage;
 
 public class Datatypes {
-
+//This is Basic DataType Program
 	public static void main(String[] args) {
 		//Primitive Dataypes - int
 		int a=10, b=20, c;
